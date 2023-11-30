@@ -1,5 +1,5 @@
 # Junkpunk
-About YOLO implementation for PCB component identification &amp; classification  Stars
+
 
 ## Description
 This project is a component of our IDE Sustainable System module output, representing a part of our technical implementation. It's a PCB component recognition app capable of running on iOS applications, trained using YOLOv5. With its low power consumption, it can operate on mobile phones to help users identify different components on a PCB and analyze their value .
